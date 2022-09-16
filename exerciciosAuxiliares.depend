@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652454692 source:c:\users\mrcra\desktop\exerciciosauxiliares\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652828956 source:d:\exerciciosauxiliares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1653414276 source:e:\fatec\fatec - 1 semestre\algoritmos\laço de repetição\exerciciosauxiliares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
